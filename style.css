@@ -1,7 +1,18 @@
 body{
     margin:5px;
-    background-color: antiquewhite;
+    background-color: rgb(35, 47, 62);
 }
 h1{
     text-align: center;
-     color:orange}
+     color:orange
+    }
+
+p{
+    text-align: center;
+    color:whitesmoke
+    }
+.image-AWS{
+    width:40%;
+    width:40%;
+    height:auto
+}
